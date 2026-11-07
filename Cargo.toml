@@ -2,9 +2,10 @@
 name = "sigmaos_wget"
 version = "0.1.0"
 edition = "2021"
-
-[dependencies]
+description = "SigmaOS wget HTTP client model: URLs, requests, downloads, progress"
 
 [lib]
 name = "sigmaos_wget"
 path = "src/lib.rs"
+
+[dependencies]
