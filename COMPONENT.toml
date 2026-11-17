@@ -3,7 +3,7 @@ name = "SigmaOS-wget"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "wget component"
+description = "SigmaOS wget HTTP client model"
 upstream = []
 
 [contract]
